@@ -9,9 +9,13 @@ To install these dependencies, open a Shell / bash window and use the following 
 ```bash
 pip install -r requirements.txt
 ```
-
----------
----------
+## Use the script
+To use the script, open a shell window in your IDE or on your desktop and use the following instruction to launch :
+```bash
+python person_list.py
+```
+----
+----
 
 ## Objectif
 Ce projet a pour objectif de générer un tableau de 10 utilisateurs français avec leurs propres email et ville. Toutes les données sont générées aléatoirement.
@@ -21,4 +25,10 @@ Pour utiliser le projet, vous allez avoir besoin de quelques dépendances. _Fake
 Pour installer ces dépendances, ouvrez un Shell / bash et saisissez la commande suivante : 
 ```bash
 pip install -r requirements.txt
+```
+
+## Utiliser le script
+Pour utiliser le script, ouvrez un terminal dans votre IDE ou sur votre bureau et utilisez la commande suivante : 
+```bash
+python person_list.py
 ```
