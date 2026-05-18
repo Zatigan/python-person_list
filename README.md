@@ -1,7 +1,7 @@
 # Project person_list
 
 ## Purpose
-This project is configured to generate a chart of 10 French users with their own email and city. All datas are generated randomly.
+This project is configured to generate a table of 10 French users with their own email and city. All datas are generated randomly.
 
 ## Install project
 In order to use the project, you will need some dependencies. We are using _Faker_ and _tabulate_ from pip library.
